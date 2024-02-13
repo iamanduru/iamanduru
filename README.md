@@ -22,6 +22,18 @@
   Hey Youuuuu!!
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2YXhud3A3Y3pyMG1xZmExdzRmNm83ZTg2OWh4MmxqdDB6ZGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc3dm12cmVudTBtYWN3ZTYzcWIyNHN6OXVrYXI5dmEwaXgweWhjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
+</div>
+
+### 👩‍💻: Who is Anduru :
+I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi & Kigali
+- 🔭: I'm still gaining skills and doing personal Projects.
+- 🌱: I'm currently studying at Adeventis university oF Central Africa - Rwanda as a Software Engineering student.
+- 😄 Pronouns: she/They
+- ⚡: I am free to collaborate and eager to learn more.
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anduru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/)
 <!--
 **iamanduru/iamanduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

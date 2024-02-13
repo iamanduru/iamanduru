@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dueDlzOGtjNGJ6Z3BubG1mMmtlNWlhcWlmeTBxdXhsanNhdXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dueDlzOGtjNGJ6Z3BubG1mMmtlNWlhcWlmeTBxdXhsanNhdXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mitchelle-anduru-1b488822b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,13 +14,13 @@
   </a>
 </div>
 
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=iamanduru&style=flat-square&color=red" alt=""/>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamanduru&style=flat-square&color=red" alt="" />
 </div>
 
-<h1>
+<h1 align="center">
   Hey Youuuuu!!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2YXhud3A3Y3pyMG1xZmExdzRmNm83ZTg2OWh4MmxqdDB6ZGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2YXhud3A3Y3pyMG1xZmExdzRmNm83ZTg2OWh4MmxqdDB6ZGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!--
 **iamanduru/iamanduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -30,10 +30,10 @@
 ### 👩‍💻: Who is Anduru :
 I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi & Kigali
 - 🔭: I'm still gaining skills and doing personal Projects.
-- 🌱: I'm currently studying at Adeventis university oF Central Africa - Rwanda as a Software Engineering student.
+- 🌱: I'm studying at Adventist University of Central Africa - Rwanda as a Software Engineering student.
 - 😄 Pronouns: she/They
 - ⚡: I am free to collaborate and eager to learn more.
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anduru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/)
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anduru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/) or you can just DM my instagram account. I promise I'll reply
 
   ### 🛠️: Languages & Tools :
   <div>

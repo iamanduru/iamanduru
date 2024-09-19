@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/mitchelle-anduru-1b488822b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/iamanduru?igsh=MXdncnk1cXcwaHhrYg==">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://www.tiktok.com/@iam.anduru?_t=8jqRgaRnsV3&_r=1">
   <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
@@ -30,10 +27,10 @@
 ### 👩‍💻: Who is Anduru :
 I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi & Kigali
 - 🔭: I'm still gaining skills and doing personal Projects.
-- 🌱: I'm studying at Adventist University of Central Africa - Rwanda as a Software Engineering student.
+- 🌱: I'm studying at Adventist University of Central Africa - Rwanda as a Software Engineering student & at Moringa school for Product design
 - 😄 Pronouns: she/They
 - ⚡: I am free to collaborate and eager to learn more.
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anduru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/) or you can just DM my instagram account. I promise I'll reply
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anduru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/) 
 
   ### 🛠️: Languages & Tools :
   <div>

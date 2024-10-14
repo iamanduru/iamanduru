@@ -16,7 +16,7 @@
 </div>
 
 <h1 align="center">
-  Hey Youuuuu!!
+  Hi, I'm Anduru!
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2YXhud3A3Y3pyMG1xZmExdzRmNm83ZTg2OWh4MmxqdDB6ZGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -25,12 +25,16 @@
 </div>
 
 ### 👩‍💻: Who is Anduru :
-I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi & Kigali
-- 🔭: I'm still gaining skills and doing personal Projects.
+Software Engineer | Web Developer | Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi & Kigali
+- 🔭: Currently honing my skills in Next.js, Data Analytics, and Product Design
 - 🌱: I'm studying at Adventist University of Central Africa - Rwanda as a Software Engineering student & at Moringa school for Product design
-- 😄 Pronouns: she/They
+- 💻 Passionate about building user-centric digital products with React, Node.js, and JavaScript
+- 🔍 Exploring the intersections of tech, innovation, and social impact
+- 🌍 Advocating for inclusivity in tech, empowering women
+- 📚 Lifelong learner, driven by curiosity and a love for solving complex problems
 - ⚡: I am free to collaborate and eager to learn more.
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anduru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/) 
+- Let's build something amazing together!
+📫 Reach out to me: anyangomitchelle7@yahoo.com 
 
   ### 🛠️: Languages & Tools :
   <div>

@@ -29,6 +29,7 @@ Software Engineer | Web Developer | Tech Enthusiast <img src="https://media.giph
 - 🔭: Currently honing my skills in Next.js, Data Analytics, and Product Design
 - 🌱: I'm studying at Adventist University of Central Africa - Rwanda as a Software Engineering student & at Moringa school for Product design
 - 💻 Passionate about building user-centric digital products with React, Node.js, and JavaScript
+- 🧘🏾‍♀️ Pronouns : They/Them
 - 🔍 Exploring the intersections of tech, innovation, and social impact
 - 🌍 Advocating for inclusivity in tech, empowering women
 - 📚 Lifelong learner, driven by curiosity and a love for solving complex problems

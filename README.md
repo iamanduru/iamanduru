@@ -15,44 +15,110 @@
   <img src="https://komarev.com/ghpvc/?username=iamanduru&style=flat-square&color=red" alt="" />
 </div>
 
-<h1 align="center">
-  Hi, I'm Anduru!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2YXhud3A3Y3pyMG1xZmExdzRmNm83ZTg2OWh4MmxqdDB6ZGpiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1 align="center">Hi there, I'm Mitchelle Anduru! 👋</h1>
+<h3 align="center">Full-Stack Engineer | UI/UX Designer | Cloud Enthusiast</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc3dm12cmVudTBtYWN3ZTYzcWIyNHN6OXVrYXI5dmEwaXgweWhjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
-</div>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" alt="Code and Design Magic" />
+---
 
-### 👩‍💻: Who is Anduru :
-Software Engineer | Web Developer | Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi & Kigali
-- 🔭: Currently honing my skills in Next.js, Data Analytics, and Product Design
-- 🌱: I'm studying at Adventist University of Central Africa - Rwanda as a Software Engineering student & at Moringa school for Product design
-- 💻 Passionate about building user-centric digital products with React, Node.js, and JavaScript
+🌍 **Nairobi, Kenya** | 📧 **anyangomitchelle7@yahoo.com** | 📱 **+254790877089**  
+🔗 **[Portfolio](https://iamanduru.github.io/Portfolio1/About.html)** | **[GitHub](https://github.com/iamanduru)** | **[LinkedIn](YOUR_LINKEDIN_HERE)**  
+
+---
+## 🚀 About Me  
+
+I am a **Full-Stack Engineer and UI/UX Designer** passionate about building **scalable applications** and designing **intuitive, user-centered experiences**. Whether it's coding full-stack applications or crafting seamless UI/UX, I bring a **problem-solving mindset** and a **user-first approach** to every project.   
+
+I thrive in both **development and design**, ensuring the bridge between **engineering and user experience** is well-connected. My expertise spans **MERN Stack, Next.js, Java, Python, AWS, and Figma**, allowing me to tackle diverse projects across industries.  
+
 - 🧘🏾‍♀️ Pronouns : They/Them
-- 🔍 Exploring the intersections of tech, innovation, and social impact
-- 🌍 Advocating for inclusivity in tech, empowering women
-- 📚 Lifelong learner, driven by curiosity and a love for solving complex problems
-- ⚡: I am free to collaborate and eager to learn more.
-- Let's build something amazing together!
-📫 Reach out to me: anyangomitchelle7@yahoo.com 
+-  🌍 Advocating for inclusivity and empowering young girls & women through technology and innovation.
 
-  ### 🛠️: Languages & Tools :
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-  
-</div>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Building the Future" />
+
+---
+
+## 🛠️ **Tech Stack & Tools**  
+
+**Full-Stack Development:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)  
+
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)  
+
+**UI/UX Design:**  
+![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma) ![Shadow-UI](https://img.shields.io/badge/-Shadow--UI-lightgrey?style=flat-square)  
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Tech Stack" />
+---
+
+## 🌟 **Experience**  
+
+### 🌟 Web Developer & Design Intern | SpiderBit _(Oct 2024 – Dec 2024)_  
+- Developed **full-stack applications** using **MERN** & **Next.js**.  
+- Designed **user-friendly, visually engaging** UI components in Figma.  
+- Conducted **usability testing and iterative design** to enhance UX.  
+
+### 🌟 Volunteer | SOMTO, Norway _(June 2023 – June 2024)_  
+- Led **HTML, CSS, and JavaScript** workshops for young girls in Kibra.  
+- **Redesigned SOMTO's website**, improving accessibility and responsiveness.  
+- Organized a **community-driven free eye check-up camp**.  
+
+---
+
+## 🎓 **Education & Certifications**  
+
+🎓 **Bachelor of Information Technology (Software Engineering)** | Adventist University of Central Africa (AUCA) _(2022 - Present)_  
+🎨 **Product Design UI/UX** | Moringa School _(July 2024 - Present)_  
+🛠️ **Computer Networking Essentials** | Cisco _(Jan 2024 – April 2024)_  
+🌀 **AWS Certified Cloud Practitioner** | Amazon Web Services _(2023)_  
+
+---
+
+## 🔥 **Highlighted Projects**  
+
+### 🏦 **FinPath - Personal Finance Tracking App**  
+📌 *Empowering users with budgeting success & financial stability.*    
+🔹 Conducted **user research, wireframing, and usability testing** in Figma.  
+
+### 📝 **Heart on a Sleeve - Blogging Platform**  
+📌 *A platform celebrating vulnerability & authentic storytelling.*  
+🔹 Developed with **Next.js** for a **smooth, interactive blogging experience**.  
+🔹 Designed for **accessibility & inclusivity** in mind.  
+
+### 🚖 **Uber Redesign - Kenya Market**  
+📌 *Enhancing fare transparency & driver-user satisfaction.*  
+🔹 Researched user pain points & introduced **fair fare systems**.  
+🔹 Proposed **tipping features & clear fare breakdowns** to boost trust.  
+
+🔗 **[View More Projects](https://github.com/iamanduru)**  
+
+<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%" alt="Project Showcase" />
+---
+
+## 💌 **Let's Connect!**  
+
+🌐 **Portfolio:** [iamanduru.github.io](https://iamanduru.github.io/Portfolio1/About.html)  
+💻 **GitHub:** [github.com/iamanduru](https://github.com/iamanduru)  
+📧 **Email:** anyangomitchelle7@yahoo.com  
+📱 **Phone:** +254790877089  
+🔗 **LinkedIn:** [[Your LinkedIn Profile Here]](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/)  
+
+---
+
+🌟 **Fun Fact:** I'm always learning something new—whether it's a **new programming framework, UX principle, or language (currently German 🇩🇪)**!  
+
+💡 **Motto:** *"Empowering the web with clean code & innovative design."*  
+
+🚀 **Let's build something amazing together!**  
+
+---
+
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100%" alt="Let's Connect" />
 
 ### 🔥 : My stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamanduru&theme=dark)](https://git.io/streak-stats) 

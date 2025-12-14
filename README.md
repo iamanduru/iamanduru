@@ -1,13 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dueDlzOGtjNGJ6Z3BubG1mMmtlNWlhcWlmeTBxdXhsanNhdXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dueDlzOGtjNGJ6Z3BubG1mMmtlNWlhcWlmeTBxdXhsanNhdXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Developer at work"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mitchelle-anduru-1b488822b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://iamanduru.github.io/Portfolio1/About.html">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.tiktok.com/@hey.anduru?_t=8jqRgaRnsV3&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
 </div>
 
@@ -17,132 +20,157 @@
 
 ---
 
-<h1 align="center">Anduru Here...</h1>
-<h3 align="center">Full-Stack Engineer | UI/UX Designer | Cloud Enthusiast | Tech Empowerment Advocate</h3>
+<h1 align="center">Mitchelle Anduru</h1>
+<h3 align="center">Full-Stack Software Engineer · Digital Forensics & Cybersecurity Enthusiast</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="70%" />
-</div>
-
----
-
-🌍 **Based in:** Nairobi, Kenya  
-📧 **Email:** andurumitchelleanyango@gmail.com  
-📱 **Phone:** +254790877089  
-🔗 **Portfolio:** [iamanduru.github.io](https://iamanduru.github.io/Portfolio1/About.html)  
-🐙 **GitHub:** [@iamanduru](https://github.com/iamanduru)  
+<p align="center">
+Design-led engineer building intuitive, secure, and scalable digital products across the stack.
+</p>
 
 ---
 
-## 🚀 About Me  
+## 🧑🏾‍💻 Profile
 
-I'm a **Full-stack Software Engineer** and **UI/UX Designer** passionate about building impactful, scalable, and human-centered digital experiences. I bring a **cross-functional toolkit** in front-end development, cloud systems, prototyping, and inclusive design.
+I’m a **Full-Stack Software Engineer** with a strong foundation in **UI/UX, system design, digital forensics, and cloud computing**. I enjoy solving real problems with clean architecture and human-centered design.
 
-- 💻 I build with JavaScript, Python, React, Node.js, and Next.js
-- 🧠 I design with Figma, Shadow-UI, and research-backed UX
-- ☁️ AWS Certified Cloud Practitioner
--  🌍 Advocating for inclusivity and empowering young girls & women through technology and innovation.
--  🧘🏾‍♀️ Pronouns : They/Them
-- 🗣️ I speak English (Fluent), Kiswahili (Fluent), and German (Beginner)
+I care about:
 
----
-## 🛠️ Tech Stack & Tools
+- 🧩 Well-structured systems, data integrity, and maintainable code  
+- 🔐 Security by design – authentication, authorization, and safe data handling  
+- 🎨 Accessible, inclusive interfaces that work for real users  
+- 🌍 Using technology to empower young women, girls, and underrepresented communities  
 
-### 🧠 **Programming Languages**
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- 🧘🏾‍♀️ **Pronouns:** They/Them  
+- 🗣️ **Languages:** English (Fluent), Kiswahili (Fluent), German (Beginner)  
 
 ---
 
-### ⚙️ **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+## 📌 Quick Info
+
+- 🌍 Based between **Kigali, Rwanda** (study & work) and **Nairobi, Kenya**  
+- 💼 Currently: **Software Developer Intern – VisionFund Rwanda**  
+- 🎓 **BSc in Software Engineering** – Adventist University of Central Africa (AUCA)  
+- ☁️ **AWS Certified Cloud Practitioner (Gamer Version)**  
+- 🎯 Interests: Full-stack engineering, cybersecurity, TinyML, digital inclusion  
 
 ---
 
-### 🗃️ **Databases & ORMs**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+## 🛠 Skills
+
+### 💻 Languages & Frameworks
+- **Languages:** JavaScript (ES6+), TypeScript, Java, Python, HTML5, CSS3  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Responsive Design, UI/UX principles  
+- **Backend & Databases:** Node.js, Express.js, FastAPI, MySQL, MongoDB, Prisma ORM, REST APIs, SQL design  
+
+### ☁️ Cloud, DevOps & Tools
+- **Cloud & DevOps:** AWS (Cloud Practitioner), CI/CD, Docker, Containers, Linux  
+- **Developer Tools:** Git & GitHub, VS Code, Postman, Jira  
+- **Hardware & ML:** Arduino, TinyML, Python ML libraries  
+
+### 🎨 UX / UI Design
+- Figma – wireframes, prototypes, design systems  
+- Usability testing & accessibility  
+- Inclusive and mobile-first design  
+
+### 🧭 Core Strengths
+- Adaptability & continuous learning  
+- Clear communication & collaboration  
+- Critical thinking, empathy, and ownership  
 
 ---
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 🎨 **Design & Prototyping**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Shadow-UI](https://img.shields.io/badge/-Shadow--UI-lightgrey?style=flat-square)
-![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
-![Nice](https://img.shields.io/badge/-Nice%20Design-grey?style=flat-square)
-
----
-
-### 🧪 **Testing & Utilities**
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 💼 Experience
 
-### 👩🏾‍💻 Software Development Intern — *VisionFund Rwanda*  
-*April 2025 – Present*  
-- Built full-stack systems: Inventory Management, Payroll Automation  
-- Migrated databases: MongoDB ➡️ MySQL (Prisma ORM)  
-- Integrated: React, Tailwind CSS, Node.js, Express  
-- Supported internal IT operations (device setup, network config)
+### Software Developer (Intern) · VisionFund Rwanda  
+*Kigali, Rwanda · April 2025 – July 2025*  
 
-### 🌐 Web Developer & Design Intern — *SpiderBit*  
-*Oct 2024 – Dec 2024*  
-- Developed responsive websites using modern web tools  
-- Collaborated with design and engineering teams  
-- Focused on UI consistency, performance, and user needs
-
-### 💡 Volunteer — *SOMTO Norway (Kenya Projects)*  
-*June 2023 – June 2024*  
-- Mentored young girls in HTML, CSS, JavaScript  
-- Led a full accessibility-focused redesign of SOMTO’s website  
-- Organized free medical and tech community outreach events
+- Developed and deployed a **full-stack Inventory Management System**, improving asset tracking efficiency.  
+- Migrated backend architecture from **MongoDB → MySQL**, optimizing database performance and query speed.  
+- Designed secure authentication and user access controls using **Node.js, Express.js, RBAC, and JWT**.  
+- Built intuitive, mobile-responsive frontends with **React** and **Tailwind CSS**.  
+- Led development of a **Payroll Management System** automating salary, tax, and deduction workflows.  
+- Provided IT support for hardware configuration and internal system setup.
 
 ---
 
-## 📚 Education & Certifications
+### Web Developer & Design Intern · Spider Bit  
+*Kigali, Rwanda · October 2024 – December 2024*  
 
-- 🎓 **BSc in Information Technology** (Software Engineering) — *AUCA, Rwanda*  
-- 🧠 **Product Design (UI/UX)** — *Moringa School*  
-- 🌐 **Computer Networking Essentials** — *CISCO Academy*  
-- ☁️ **AWS Certified Cloud Practitioner** — *Amazon Web Services*
-
----
-
-## 🔥 Featured Projects
-
-### 📊 **Inventory & Payroll Management Systems**  
-> Automating internal workflows using MySQL, Prisma, React, and Node.js  
-🔗 _Private enterprise project (VisionFund)_
-
-### 📝 **Heart on a Sleeve — Blogging Platform**  
-> A personal + storytelling blog, built with **Next.js + Figma**  
-🔗 [See Case Study]([https://github.com/iamanduru](https://www.figma.com/design/7R2qCrxWDCuVBWSh9pkOKT/Heart-on-a-sleeve?node-id=385-687&t=6okuSNPDQu1mJBhL-1))
-
-### 🚖 **Uber UX Redesign for Kenya**  
-> Enhanced fare transparency and driver-user satisfaction  
-🔗 [See Case Study]([https://github.com/iamanduru](https://www.figma.com/design/lt2Hr9RQbTlIV17AEEmURk/Uber-UX--UI-Case-study?node-id=0-1&t=F66jWxFBpvC7Zz2h-1))
+- Built and maintained responsive websites aligned with modern UI/UX standards.  
+- Translated product requirements and designs into clean, maintainable frontend code.  
+- Collaborated with cross-functional teams to deliver user-first features and micro-interactions.  
+- Conducted iterative usability testing to improve user experience and satisfaction.
 
 ---
 
-## 📊 GitHub Stats
+### Technology Volunteer – Digital Inclusion Projects · SOMTO (Karoline Aadland’s Minnestiftelse)  
+*Kenya · June 2023 – June 2024*  
+
+- Facilitated **coding workshops** for underrepresented youth in Kibra, introducing girls to **HTML, CSS, and JavaScript**.  
+- Led a **website redesign** to improve mobile responsiveness and accessibility for community programs.  
+- Helped coordinate multi-stakeholder community health and tech outreach initiatives, demonstrating project leadership.
+
+---
+
+## 🎓 Education
+
+**BSc in Software Engineering**  
+Adventist University of Central Africa (AUCA) · Kigali, Rwanda · 2022 – 2026  
+
+- Focus: Software development, data structures, cloud computing, and agile practices.  
+- Tools & topics: Git, OOP, Java, Python, mobile & web app development, systems design, databases.  
+
+**Pre-University Bridge Program (Engineering Track)**  
+Carnegie Mellon University Africa (CMU-Africa) · June 2025 – November 2025  
+
+- Worked with **TinyML, Arduino, embedded systems**, and real-time IoT prototyping.  
+- Developed ML solutions optimized for low-power microcontrollers.  
+- Strengthened engineering design, problem-solving, and computational thinking.
+
+---
+
+## 📜 Certifications
+
+- **Cybersecurity** – Moringa School (In progress)  
+- **Product Design (UI/UX)** – Moringa School  
+- **Computer Networking Essentials** – CISCO  
+- **AWS Certified Cloud Practitioner (Gamer Version)** – AWS  
+
+---
+
+## 🔍 Selected Projects
+
+### Inventory Management System · VisionFund Rwanda  
+Internal tool to track and manage organizational assets.  
+- **Stack:** React, Tailwind CSS, Node.js, Express.js, MySQL, Prisma ORM  
+- **Focus:** Data integrity, role-based access, and clear dashboards.  
+- **Status:** Private enterprise project.
+
+---
+
+### Payroll Management System · VisionFund Rwanda  
+Automated payroll workflows for staff compensation.  
+- **Stack:** Node.js, Express.js, MySQL, React  
+- **Features:** Salary calculation, tax and deductions, secure authentication, auditability.  
+- **Status:** Private enterprise project.
+
+---
+
+### Heart on a Sleeve – Blogging Platform  
+A personal storytelling platform exploring experiences, identity, and growth.  
+- **Stack:** Next.js, React  
+- **Design:** End-to-end UI/UX in Figma (information architecture, wireframes, prototypes).  
+
+---
+
+### Uber UX Redesign – Kenya Context  
+Concept UX case study rethinking Uber for local realities.  
+- **Focus:** Fare transparency, trust & safety, and driver–rider relationship.  
+- **Deliverables:** User journeys, wireframes, high-fidelity mockups in Figma.
+
+---
+
+## 📊 GitHub Snapshot
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamanduru&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -152,35 +180,15 @@ I'm a **Full-stack Software Engineer** and **UI/UX Designer** passionate about b
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/)  
-- 🧪 [Portfolio](https://iamanduru.github.io/Portfolio1/About.html)  
-- 📩 [Email](mailto:anyangomitchelle7@yahoo.com)  
-- 🧠 [GitHub](https://github.com/iamanduru)  
+- 💼 [LinkedIn – Mitchelle Anduru](https://www.linkedin.com/in/mitchelle-anduru-1b488822b/)  
+- 🌐 [Portfolio](https://iamanduru.github.io/Portfolio1/About.html)  
+- 🐙 [GitHub – @iamanduru](https://github.com/iamanduru)  
+- 📧 [Email](mailto:andurumitchelleanyango@gmail.com)  
 
 ---
 
 <p align="center">
-  <i>“Empowering the web with clean code & innovative design.”</i><br>
-  ✨ Always learning. Always building. Always inclusive.
+  <i>Design-led engineering. Secure systems. Inclusive technology.</i>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="70%" />
-</div>
-
-<!--
-**iamanduru/iamanduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,227 +1,136 @@
-<div align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE1aDdleHkyZGk2M2xubDZlZnJ6bnIzODVkNG9rN3dpbWVhcGc4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="110" alt="Software and security engineering animation"/>
-
 # Mitchelle Anduru
 
-### Software Engineer | Security Engineering | Cybersecurity Operations & Digital Forensics
+### Software Engineer | Secure Backend Systems | Cybersecurity Operations, Incident Response & Digital Forensics
 
-I build secure digital systems and investigate how they fail.
+📍 Kenya / Rwanda · Open to Remote Opportunities & Relocation
 
-Based in Kigali, Rwanda and Nairobi, Kenya
-Open to graduate, internship, junior and remote opportunities.
+I am a software engineer focused on building **secure, reliable backend and full-stack systems**.
 
-<p>
-  <a href="mailto:andurumitchelleanyango@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mitchelle-anduru/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://iamanduru.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+I am particularly interested in what happens after a digital system is built:
 
-</div>
+- Who can access it?
+- What gets logged?
+- How is sensitive data protected?
+- What happens when credentials or systems are compromised?
+- Can we reconstruct what happened after an incident?
 
----
-
-## About Me
-
-I am a software engineer developing practical experience at the intersection of secure software development, cybersecurity operations and digital investigations.
-
-My work focuses on building reliable backend systems, strengthening access controls, improving security visibility and understanding how digital incidents occur.
-
-I am particularly interested in environments where security, accountability, evidence integrity and digital trust are essential.
-
-My long-term direction is digital forensics and incident response, supported by a strong foundation in software engineering and secure systems development.
+These questions are increasingly shaping my work across **backend engineering, application security, cybersecurity operations and digital forensics**.
 
 ---
 
 ## What I Work On
 
-* Secure backend systems and REST APIs
-* Authentication, authorisation and role-based access control
-* Application and API security
-* Security logging, monitoring and audit trails
-* Threat-intelligence collection and analysis
-* Network and system-security analysis
-* Digital-forensics and incident-response foundations
-* CI/CD, containerisation and secure deployment practices
+- Backend systems and REST APIs
+- Authentication and authorization
+- Secure application architecture
+- API and application security
+- Database-driven systems
+- Linux and system security
+- CI/CD and DevSecOps practices
+- Incident response and digital forensics
+- Digital trust and high-trust systems
 
 ---
 
-## Selected Projects
+## Technical Stack
 
-### [ShieldGate WAF Lite](https://github.com/iamanduru/shieldgate-waf-lite)
+### Languages
+`JavaScript` `TypeScript` `Python` `Java` `SQL`
 
-A lightweight Web Application Firewall designed to protect APIs and web applications through request inspection, rule-based decisions, risk scoring and security logging.
+### Backend
+`Node.js` `Express` `FastAPI` `REST APIs` `JWT` `Authentication` `RBAC`
 
-**Focus:** API security, defensive engineering, request analysis and auditability
-**Stack:** TypeScript, Node.js, Fastify, Prisma, MySQL and Docker
+### Frontend
+`React` `HTML5` `CSS3`
 
----
+### Databases
+`MySQL` `MongoDB` `Prisma` `Database Design`
 
-### [AppliedCTI](https://github.com/iamanduru/AppliedCTI)
+### Security
+`API Security` `Secure Authentication` `Access Control` `OWASP` `Security Analysis` `System Hardening`
 
-A Python threat-intelligence utility that retrieves information from AlienVault OTX, extracts indicators of compromise, applies rule-based prioritisation and generates structured reports.
-
-**Focus:** Threat intelligence, IoC processing, security automation and reporting
-**Stack:** Python, REST APIs and JSON
-
----
-
-### [Network Security with Python](https://github.com/iamanduru/Network_Security_with_Python)
-
-A Linux-focused network inspection utility for analysing network interfaces, connectivity, DNS resolution, listening ports and associated processes.
-
-**Focus:** Network visibility, Linux internals and security automation
-**Stack:** Python and Linux
+### Engineering & DevOps
+`Git` `GitHub` `Docker` `Linux` `GitHub Actions` `CI/CD` `CodeQL` `Dependabot`
 
 ---
 
-### [Malware Analyzer](https://github.com/iamanduru/Malware_Analyzer)
+## Current Focus
 
-An educational static-malware-triage prototype that calculates file hashes, evaluates suspicious patterns and produces structured analysis reports without executing the sample.
+I am currently strengthening my practical experience in:
 
-**Focus:** Static malware analysis, file hashing, triage logic and reporting
-**Stack:** Python
+- secure authentication and identity systems
+- backend architecture and API security
+- application threat modelling
+- security testing and vulnerability analysis
+- Linux security and system hardening
+- secure CI/CD pipelines
+- cloud deployment and monitoring
+- incident response and digital forensics
 
----
+My approach is simple:
 
-## Technical Skills
-
-### Software Engineering
-
-* TypeScript, JavaScript, Python and Java
-* Node.js, Fastify, Express.js and FastAPI
-* REST APIs and OpenAPI documentation
-* MySQL, MongoDB, Prisma ORM and SQL
-* React, Next.js and Tailwind CSS
-
-### Cybersecurity
-
-* Secure authentication and session management
-* Role-based access control
-* API and application-security foundations
-* Security logging and audit trails
-* Threat intelligence and IoC analysis
-* Linux and network-security analysis
-* Digital-forensics and incident-response foundations
-* System hardening and security reporting
-
-### Infrastructure and Tools
-
-* Linux
-* Docker
-* Git and GitHub
-* GitHub Actions and CI/CD foundations
-* Postman
-* Swagger/OpenAPI
-* Jira
-* VS Code
-* Figma
+**Learn → Build → Break → Secure → Document**
 
 ---
 
-## Security Reports and Case Studies
+## Building Ethera
 
-I document selected cybersecurity, digital-forensics and system-hardening work through structured, evidence-based reports.
+I am also developing **Ethera**, an early-stage legal technology and digital trust venture exploring how secure technology can support sensitive information, digital evidence integrity and trusted legal workflows.
 
-Each report is designed to communicate:
+My interests here sit at the intersection of:
 
-* the investigation or assessment context;
-* the evidence and tools used;
-* key technical findings;
-* identified risks;
-* practical security recommendations;
-* limitations and lessons learned.
-
-Current areas of work include:
-
-* Network-security and connectivity analysis
-* Threat intelligence and MITRE ATT&CK mapping
-* Linux access-control and system-hardening reviews
-* Web-server and cloud-security assessments
-* Audit logging, permissions and data integrity
-* Digital-forensics investigation reporting
-
-[View selected security reports](https://iamanduru.github.io/portfolio/#reports)
+`Software Engineering` · `Cybersecurity` · `Digital Evidence` · `Legal Technology` · `Digital Trust`
 
 ---
 
-## Experience
+## Engineering Through Projects
 
-### Software Developer Intern — VisionFund Rwanda
+I use projects to go beyond simply making software work.
 
-**April 2025 – July 2025**
+For each serious system I build, I aim to understand and document:
 
-* Developed internal systems supporting inventory and payroll workflows.
-* Contributed to a backend database migration from MongoDB to MySQL.
-* Implemented JWT-based authentication and role-based access control.
-* Improved data structure, access controls and workflow reliability.
-* Supported the development and testing of secure backend functionality.
+- architecture and design decisions
+- authentication and authorization
+- attack surfaces and threat models
+- secure data handling
+- testing
+- CI/CD
+- deployment
+- monitoring
+- failures and lessons learned
 
-### Web Developer and Design Intern — Spider Bit
-
-**October 2024 – December 2024**
-
-* Developed and refined responsive websites.
-* Translated interface designs into functional web experiences.
-* Improved usability, accessibility and content presentation.
-* Supported frontend implementation and user-interface testing.
-
-### Technology Volunteer — SOMTO
-
-**June 2023 – Present**
-
-* Supported beginner coding and digital-literacy workshops.
-* Helped learners understand HTML, CSS and JavaScript fundamentals.
-* Contributed to community website improvements.
-* Supported digital-inclusion and technology outreach initiatives.
+My GitHub is therefore both a development workspace and a record of how I am growing as an engineer.
 
 ---
 
-## Current Development Focus
+## Education
 
-I am currently strengthening my capabilities in:
+**BSc Software Engineering**  
+Adventist University of Central Africa — Kigali, Rwanda  
+Expected 2027
 
-* Security operations and alert investigation
-* Incident response and evidence handling
-* Digital-forensics workflows
-* Threat detection and analysis
-* Secure backend architecture
-* DevSecOps and security automation
-* Professional investigation and security reporting
+**Engineering Bridge Program**  
+Carnegie Mellon University Africa — 2025
 
 ---
 
-## Professional Direction
+## Professional Interests
 
-I am interested in opportunities such as:
-
-* Graduate or Junior Cybersecurity Analyst
-* SOC Analyst
-* Junior Security Engineer
-* Junior Incident Response Analyst
-* Application Security Analyst
-* Secure Backend Engineer
-* Junior DevSecOps Engineer
-* Cybersecurity Internship or Graduate Programme
-
-My long-term goal is to contribute to digital-forensics, cyber-investigation and incident-response work.
+`Backend Engineering`  
+`Application Security`  
+`Cybersecurity Operations`  
+`Incident Response`  
+`Digital Forensics`  
+`Threat Intelligence`  
+`Digital Trust`  
+`Secure Digital Infrastructure`
 
 ---
 
-## Contact
+## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/mitchelle-anduru/)
-* [Portfolio](https://iamanduru.github.io/portfolio/)
-* [Email](mailto:andurumitchelleanyango@gmail.com)
+**LinkedIn:** [linkedin.com/in/mitchelle-anduru](https://www.linkedin.com/in/mitchelle-anduru)
 
-<div align="center">
+**Portfolio:** [iamanduru.github.io/portfolio](https://iamanduru.github.io/portfolio/)
 
-### Build with clarity. Secure with intention. Investigate with evidence.
-
-</div>
+**Email:** andurumitchelleanyango@gmail.com

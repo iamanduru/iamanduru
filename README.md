@@ -2,7 +2,7 @@
 
 ### Software Engineer | Secure Backend Systems | Cybersecurity Operations, Incident Response & Digital Forensics
 
-📍 Kenya / Rwanda · Open to Remote Opportunities & Relocation
+Kenya / Rwanda · Open to Remote Opportunities & Relocation
 
 I am a software engineer focused on building **secure, reliable backend and full-stack systems**.
 
